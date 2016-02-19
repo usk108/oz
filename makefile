@@ -2,7 +2,7 @@ CPP	= gcc
 CFLAGS	= -O3 -Wall
 DEBUG	= -g
 LIB	= -framework OpenGL -framework GLUT -framework OpenAL
-CSRCS = 2_toba.c objects.c glm.c
+CSRCS = prac5.c objects.c glm.c
 COBJS = ${CSRCS:.c=.o}
 
 ALL: oz

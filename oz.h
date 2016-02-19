@@ -11,11 +11,7 @@ extern GLuint objects;
 extern int clickx,clicky;
 extern double abv;
 extern double a;
-
-extern double v;
-extern double thera;
-//extern double v[];
-
+extern double v[];
 extern double t;
 extern double pi;
 extern int ww,hh;
